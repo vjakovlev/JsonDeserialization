@@ -1,0 +1,24 @@
+{
+  "Name": "Viktor Jakovlev",
+  "Age": 29,
+  "Email": "viktor.jakovlev@seavus.com",
+  "Active": true,
+  "Adress": [
+    {
+      "Street": "Prashka90b",
+      "City": "Skopje"
+    },
+    {
+      "Street": "Londonska26a",
+      "City": "Ohrid"
+    },
+    {
+      "Street": "Partzanska119",
+      "City": "Skopje"
+    }
+  ],
+  "Roles": [
+    "Admin",
+    "Sales"
+  ]
+}
